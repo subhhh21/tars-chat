@@ -4,8 +4,6 @@ Hi! I'm Suvalaxmi Mohanty. I built this real-time chat application for the Tars 
 
 ## 🚀 Experience it Live
 - **Check out the App:** [tars-chat-two.vercel.app](https://tars-chat-two.vercel.app)
-- **Watch my Walkthrough:** [Loom Demo Video](https://www.loom.com/share/b26e7af076f949328dce9a3fe83caaa5)
-
 ## ✨ What's Inside?
 - **Real-time Engine:** I used Convex to ensure messages pop up instantly without refreshing.
 - **Mobile First:** I spent a lot of time ensuring the mobile transition is smooth, including a functional back-button for chat navigation.
