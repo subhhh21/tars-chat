@@ -26,7 +26,7 @@ Hi! I'm Suvalaxmi Mohanty. I built this real-time chat application for the Tars 
    cd tars-chat
 
 
- 2. Install & Run:
+
    npm install
    npm run dev
 
